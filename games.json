@@ -2151,6 +2151,7 @@
       "Strategy Games",
       "Thematic Games"
     ],
+    "boardgamehonor": [],
     "poll": [
       {
         "@_name": "suggested_numplayers",
@@ -5720,6 +5721,7 @@
       "sternenschimmermeer Korean edition"
     ],
     "boardgamesubdomain": "Strategy Games",
+    "boardgamehonor": [],
     "poll": [
       {
         "@_name": "suggested_numplayers",
@@ -6503,6 +6505,7 @@
       "Players: Games with Solitaire Rules",
       "Setting: Mage Knight"
     ],
+    "boardgamecategory": "",
     "boardgameversion": [
       "Czech edition",
       "English edition, eighth printing",
@@ -16890,6 +16893,7 @@
       "Wooden Games Crokinole Polish edition"
     ],
     "boardgamesubdomain": "Family Games",
+    "boardgamehonor": [],
     "poll": [
       {
         "@_name": "suggested_numplayers",
